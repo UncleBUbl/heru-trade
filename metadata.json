@@ -1,0 +1,8 @@
+{
+  "name": "Heru Trade",
+  "description": "The unbreakable pure-crypto remittance app for Africa and the diaspora. Sovereign African Money.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
